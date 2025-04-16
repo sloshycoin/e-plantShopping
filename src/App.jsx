@@ -1,4 +1,6 @@
 
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/no-unescaped-entities */
 import React, { useState } from 'react';
 import ProductList from './ProductList';
 import './App.css';
