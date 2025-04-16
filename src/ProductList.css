@@ -267,3 +267,18 @@ body {
         /* Align text to the center */
     }
 }
+
+h3, i {
+    padding-left: 20px;
+}
+h3 {
+    font-size: 30px;
+    color: #dfb704;
+}
+#page-title {
+    font-size: 30px;
+    color: #dfb704;
+}
+svg text {
+    color: #dfb704;
+}

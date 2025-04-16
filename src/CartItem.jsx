@@ -33,8 +33,8 @@ const CartItem = ({ onContinueShopping }) => {
         onContinueShopping(e);
     };
 
-    const handleCheckoutShopping = (e) => {
-        alert('Functionality to be added for future reference');
+    const handleCheckoutShopping = () => {
+        alert('Your total amount is $' + calculateTotalAmount() + '. Thank you for shopping with us!');
     };
 
     const handleIncrement = (item) => {
